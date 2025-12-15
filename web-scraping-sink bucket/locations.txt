@@ -1,0 +1,7 @@
+Glendale, CA|San Gabriel, CA|El Monte, CA|South El Monte, CA
+Arcadia, CA|Monterey Park, CA|Claremont, CA|Alhambra, CA
+Glendora, CA|Covina, CA|West Covina, CA|Azusa, CA
+Montebello, CA|Pasadena, CA|Rosemead, CA|Riverside, CA
+Ontario, CA|Upland, CA|Fontana, CA|Redlands, CA
+Corona, CA|Rancho Cucamonga, CA|Montclair, CA
+Warner Robins, GA|Lake Stevens, WA|Everett, WA
